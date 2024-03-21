@@ -99,8 +99,11 @@
 
 // let yosh = prompt('Yoshingizni Kiriting')
 
-// if(yosh >= 18){
+// if(yosh > 18){
 //     console.log('Siz Balagot yoshiga yetgansiz');
+// }
+// else if(yosh === 18){
+//     console.log('BAlogat yoshi Muborak');
 // }
 // else{
 //     console.log('Siz Balagot yoshiga yetmagansiz');
